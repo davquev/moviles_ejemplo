@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppRecyclerVMO</string>
+    <string name="nombre">Ingrese Nombre</string>
+    <string name="telefono">Ingrese Telefono</string>
+</resources>
